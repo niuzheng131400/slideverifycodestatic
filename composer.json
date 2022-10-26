@@ -15,6 +15,12 @@
     }
   },
   "require": {
-    "oomphinc/composer-installers-extender": "1.1.2"
+    "oomphinc/composer-installers-extender": "*"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true,
+      "oomphinc/composer-installers-extender": true
+    }
   }
 }
