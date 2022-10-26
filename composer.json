@@ -1,0 +1,20 @@
+{
+  "name": "niuz/slideverifycodestatic",
+  "type": "niuz",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "niuzheng131400",
+      "email": "771036148@qq.com"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "require": {
+    "oomphinc/composer-installers-extender": "1.1.2"
+  }
+}
